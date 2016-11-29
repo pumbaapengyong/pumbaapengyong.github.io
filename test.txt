@@ -1,0 +1,55 @@
+2010-04-20 09:30:00 - INFO - .......................................................
+2010-04-20 09:30:00 - INFO - 当前持仓['002380.XSHE', '002200.XSHE']
+2010-04-20 09:30:00 - INFO - 卖：[]
+2010-04-20 09:30:00 - INFO - 买：[]
+2010-04-21 09:30:00 - INFO - .......................................................
+2010-04-21 09:30:00 - INFO - 当前持仓['002380.XSHE', '002200.XSHE']
+2010-04-21 09:30:00 - INFO - 卖：[]
+2010-04-21 09:30:00 - INFO - 买：['002379.XSHE', '002380.XSHE']
+2010-04-21 09:30:00 - INFO - 原始下单数量是为4772, 买入股票数量必须是100的倍数, 调整为4700: UserOrderRequest({'style': MarketOrderStyle({}), 'pindex': 0, 'value': 25483.036666666667, 'amount': None, 'mode': 'order_target_value', 'security': '002379.XSHE', 'side': 'long'})
+2010-04-21 09:30:00 - INFO - 原始下单数量是为62, 买入股票数量必须是100的倍数, 调整为0: UserOrderRequest({'style': MarketOrderStyle({}), 'pindex': 0, 'value': 25483.036666666667, 'amount': None, 'mode': 'order_target_value', 'security': '002380.XSHE', 'side': 'long'})
+2010-04-21 09:30:00 - WARNING - 目标数量已经满足, 没有下单: UserOrderRequest({'style': MarketOrderStyle({}), 'pindex': 0, 'value': 25483.036666666667, 'amount': None, 'mode': 'order_target_value', 'security': '002380.XSHE', 'side': 'long'})
+2010-04-22 09:30:00 - INFO - .......................................................
+2010-04-22 09:30:00 - INFO - 当前持仓['002379.XSHE', '002380.XSHE', '002200.XSHE']
+2010-04-22 09:30:00 - INFO - 卖：[]
+2010-04-22 09:30:00 - INFO - 买：['002379.XSHE', '002382.XSHE', '002380.XSHE', '002383.XSHE', '601101.XSHG']
+2010-04-22 09:30:00 - INFO - 原始下单数量是为171, 卖出股票数量必须是100的倍数(最后一手除外), 调整为100: UserOrderRequest({'style': MarketOrderStyle({}), 'pindex': 0, 'value': 25549.136, 'amount': None, 'mode': 'order_target_value', 'security': '002379.XSHE', 'side': 'long'})
+2010-04-22 09:30:00 - INFO - 原始下单数量是为3292, 买入股票数量必须是100的倍数, 调整为3200: UserOrderRequest({'style': MarketOrderStyle({}), 'pindex': 0, 'value': 25549.136, 'amount': None, 'mode': 'order_target_value', 'security': '002382.XSHE', 'side': 'long'})
+2010-04-22 09:30:00 - INFO - 原始下单数量是为2, 买入股票数量必须是100的倍数, 调整为0: UserOrderRequest({'style': MarketOrderStyle({}), 'pindex': 0, 'value': 25549.136, 'amount': None, 'mode': 'order_target_value', 'security': '002380.XSHE', 'side': 'long'})
+2010-04-22 09:30:00 - WARNING - 目标数量已经满足, 没有下单: UserOrderRequest({'style': MarketOrderStyle({}), 'pindex': 0, 'value': 25549.136, 'amount': None, 'mode': 'order_target_value', 'security': '002380.XSHE', 'side': 'long'})
+2010-04-22 09:30:00 - INFO - 原始下单数量是为492, 买入股票数量必须是100的倍数, 调整为400: UserOrderRequest({'style': MarketOrderStyle({}), 'pindex': 0, 'value': 25549.136, 'amount': None, 'mode': 'order_target_value', 'security': '002383.XSHE', 'side': 'long'})
+2010-04-22 09:30:00 - INFO - 原始下单数量是为1878, 买入股票数量必须是100的倍数, 调整为1800: UserOrderRequest({'style': MarketOrderStyle({}), 'pindex': 0, 'value': 25549.136, 'amount': None, 'mode': 'order_target_value', 'security': '601101.XSHG', 'side': 'long'})
+2010-04-23 09:30:00 - INFO - .......................................................
+2010-04-23 09:30:00 - INFO - 当前持仓['601101.XSHG', '002382.XSHE', '002380.XSHE', '002200.XSHE', '002379.XSHE', '002383.XSHE']
+2010-04-23 09:30:00 - INFO - 卖：['002379.XSHE']
+2010-04-23 09:30:00 - INFO - 买：['002383.XSHE']
+2010-04-23 09:30:00 - INFO - 原始下单数量是为139, 买入股票数量必须是100的倍数, 调整为100: UserOrderRequest({'style': MarketOrderStyle({}), 'pindex': 0, 'value': 28134.623333333333, 'amount': None, 'mode': 'order_target_value', 'security': '002383.XSHE', 'side': 'long'})
+2010-04-26 09:30:00 - INFO - .......................................................
+2010-04-26 09:30:00 - INFO - 当前持仓['002383.XSHE', '002380.XSHE', '002382.XSHE', '601101.XSHG', '002200.XSHE']
+2010-04-26 09:30:00 - INFO - 卖：['002200.XSHE']
+2010-04-26 09:30:00 - INFO - 买：[]
+2010-04-27 09:30:00 - INFO - .......................................................
+2010-04-27 09:30:00 - INFO - 当前持仓['002383.XSHE', '002380.XSHE', '601101.XSHG', '002382.XSHE']
+2010-04-27 09:30:00 - INFO - 卖：[]
+2010-04-27 09:30:00 - INFO - 买：['002382.XSHE', '600050.XSHG']
+2010-04-27 09:30:00 - INFO - 原始下单数量是为424, 买入股票数量必须是100的倍数, 调整为400: UserOrderRequest({'style': MarketOrderStyle({}), 'pindex': 0, 'value': 25771.9375, 'amount': None, 'mode': 'order_target_value', 'security': '002382.XSHE', 'side': 'long'})
+2010-04-27 09:30:00 - INFO - 原始下单数量是为4862, 买入股票数量必须是100的倍数, 调整为4800: UserOrderRequest({'style': MarketOrderStyle({}), 'pindex': 0, 'value': 25771.9375, 'amount': None, 'mode': 'order_target_value', 'security': '600050.XSHG', 'side': 'long'})
+2010-04-28 09:30:00 - INFO - .......................................................
+2010-04-28 09:30:00 - INFO - 当前持仓['002383.XSHE', '600050.XSHG', '002380.XSHE', '002382.XSHE', '601101.XSHG']
+2010-04-28 09:30:00 - INFO - 卖：['002383.XSHE', '600050.XSHG', '002380.XSHE', '002382.XSHE', '601101.XSHG']
+2010-04-28 09:30:00 - INFO - 买：['002389.XSHE', '002388.XSHE', '002387.XSHE']
+2010-04-28 09:30:00 - INFO - 原始下单数量是为2442, 买入股票数量必须是100的倍数, 调整为2400: UserOrderRequest({'style': MarketOrderStyle({}), 'pindex': 0, 'value': 23451.522499999995, 'amount': None, 'mode': 'order_target_value', 'security': '002389.XSHE', 'side': 'long'})
+2010-04-28 09:30:00 - INFO - 原始下单数量是为2417, 买入股票数量必须是100的倍数, 调整为2400: UserOrderRequest({'style': MarketOrderStyle({}), 'pindex': 0, 'value': 23451.522499999995, 'amount': None, 'mode': 'order_target_value', 'security': '002388.XSHE', 'side': 'long'})
+2010-04-28 09:30:00 - INFO - 原始下单数量是为1738, 买入股票数量必须是100的倍数, 调整为1700: UserOrderRequest({'style': MarketOrderStyle({}), 'pindex': 0, 'value': 23451.522499999995, 'amount': None, 'mode': 'order_target_value', 'security': '002387.XSHE', 'side': 'long'})
+2010-04-29 09:30:00 - INFO - .......................................................
+2010-04-29 09:30:00 - INFO - 当前持仓['002388.XSHE', '002387.XSHE', '002389.XSHE']
+2010-04-29 09:30:00 - INFO - 卖：[]
+2010-04-29 09:30:00 - INFO - 买：['002379.XSHE', '002380.XSHE', '601101.XSHG']
+2010-04-29 09:30:00 - INFO - 原始下单数量是为4454, 买入股票数量必须是100的倍数, 调整为4400: UserOrderRequest({'style': MarketOrderStyle({}), 'pindex': 0, 'value': 23651.276, 'amount': None, 'mode': 'order_target_value', 'security': '002379.XSHE', 'side': 'long'})
+2010-04-29 09:30:00 - INFO - 原始下单数量是为1287, 买入股票数量必须是100的倍数, 调整为1200: UserOrderRequest({'style': MarketOrderStyle({}), 'pindex': 0, 'value': 23651.276, 'amount': None, 'mode': 'order_target_value', 'security': '002380.XSHE', 'side': 'long'})
+2010-04-29 09:30:00 - INFO - 原始下单数量是为1844, 买入股票数量必须是100的倍数, 调整为1800: UserOrderRequest({'style': MarketOrderStyle({}), 'pindex': 0, 'value': 23651.276, 'amount': None, 'mode': 'order_target_value', 'security': '601101.XSHG', 'side': 'long'})
+2010-04-30 09:30:00 - INFO - .......................................................
+2010-04-30 09:30:00 - INFO - 当前持仓['601101.XSHG', '002388.XSHE', '002387.XSHE', '002380.XSHE', '002379.XSHE', '002389.XSHE']
+2010-04-30 09:30:00 - INFO - 卖：[]
+2010-04-30 09:30:00 - INFO - 买：['002387.XSHE']
+2010-04-30 09:30:00 - INFO - 原始下单数量是为179, 买入股票数量必须是100的倍数, 调整为100: UserOrderRequest({'style': MarketOrderStyle({}), 'pindex': 0, 'value': 24823.905, 'amount': None, 'mode': 'order_target_value', 'security': '002387.XSHE', 'side': 'long'})
